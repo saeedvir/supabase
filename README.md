@@ -26,6 +26,16 @@ SUPABASE_KEY=your-supabase-public-key
 SUPABASE_SECRET=your-supabase-secret-key
 ```
 
+## Get URL & KEY
+- go to [supabase Dashboard](https://supabase.com/dashboard)
+- select your project
+- go to "Project Settings"
+- go to "Data API"
+- copy "Project URL" as "SUPABASE_URL"
+- go to "API KEY"
+- copy "service_role" secret key as "SUPABASE_KEY"
+- then ```php artisan config:clear```
+
 ## Usage
 
 ### Using the Facade
