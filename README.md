@@ -2,6 +2,8 @@
 
 A comprehensive Laravel package for integrating with Supabase services including Auth, Database, Storage, and Realtime.
 
+- [Chat with AI for "saeedvir/supabase" package](https://context7.com/saeedvir/supabase?tab=chat)
+
 ## Installation
 
 You can install the package via composer:
