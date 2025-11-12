@@ -1,5 +1,7 @@
 # Supabase Laravel Package
 
+![alt text](https://raw.githubusercontent.com/saeedvir/supabase/refs/heads/main/docs/laravel-supabase-img.jpg?raw=true)
+
 A comprehensive Laravel package for integrating with Supabase services including Auth, Database, Storage, and Realtime.
 
 - [Chat with AI for "saeedvir/supabase" package](https://context7.com/saeedvir/supabase?tab=chat)
